@@ -16,6 +16,8 @@ public class Main {
       Alquiler alquilerDeprotivo1 = new Alquiler(deportivo1, 5);
 
       Cliente tomas = new Cliente("Tomas", 189564309, (short) 29);
+      Cliente juan = new Cliente("Juan", 192223833, (short) 32);
+      Cliente maria = new Cliente("Maria", 178283737, (short) 27);
 
         //Mostrar
         System.out.println();
@@ -37,6 +39,8 @@ public class Main {
         System.out.println("Cliente:");
         System.out.println("-----------------");
         System.out.println("Caracteristicas de Tomas: " + tomas);
+        System.out.println("Caracteristicas de Juan: " + juan);
+        System.out.println("Caracteristicas de Maria: " + maria);
 
 
 

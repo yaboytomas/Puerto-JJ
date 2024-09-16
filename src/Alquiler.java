@@ -23,8 +23,6 @@ public class Alquiler {
           this.dias = dias;
      }
 
-     /// Getters and Setters
-
 
      /// ToString
      @Override

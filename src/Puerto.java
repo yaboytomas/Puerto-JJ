@@ -4,6 +4,23 @@ public class Puerto {
      private int amarres;
      private String nombre;
 
-     //METODOS
+     //CONSTRUCTOR
+     public Puerto(int amarres, String nombre) {
+          this.amarres = amarres;
+          this.nombre = nombre;
+     }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 }
